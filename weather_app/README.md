@@ -1,8 +1,6 @@
-# weather_app
-
 ## Flutter Weather App
 
-Welcome to the Flutter Weather App — a sleek and efficient mobile application that brings real-time weather updates and forecasts right to your fingertips. Powered by the comprehensive data from OpenWeatherMap, this app is designed to deliver accurate and up-to-date weather information.
+#Welcome to the Flutter Weather App — a sleek and efficient mobile application that brings real-time weather updates and forecasts right to your fingertips. Powered by the comprehensive data from OpenWeatherMap, this app is designed to deliver accurate and up-to-date weather information.
 
 Features:
 Live Weather Data: Get the current weather conditions instantly with updates from OpenWeatherMap API.
